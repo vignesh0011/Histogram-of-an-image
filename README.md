@@ -1,3 +1,5 @@
+## EX.NO: 04<br>
+## DATE: 
 ## <p align="center">HISTOGRAM AND HISTOGRAM EQUALISATION OF AN IMAGE</p>
 
 ## Aim:
